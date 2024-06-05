@@ -1,5 +1,2 @@
-# Ignore compiled Python files
-*.pyc
-
-# Ignore IDE-specific files
-.idea/
+cljba.out
+vhgjo.in
